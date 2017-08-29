@@ -26,7 +26,7 @@ ul {
 	padding: 0;
 }
 
-li {
+li a {
 	display: block;
 	color: pink;
 	text-align: center;
